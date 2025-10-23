@@ -1,5 +1,5 @@
 ## Hi there 👋
-abc
+This would be my bio if I had anything here worth showing.
 <!--
 **wojtulinka/wojtulinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
